@@ -1,0 +1,1 @@
+Hey,friends this are some of my python projects that I had made during my school time(11th and 12th class) to understand the basic programming with python.This projects are made using only the basic concepts of programming and basic python libraries.This projects can be used as an reference for learning basic python programming. 
